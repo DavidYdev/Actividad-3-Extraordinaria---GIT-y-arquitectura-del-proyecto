@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+namespace Tutorial.Transition
+{
 public class MenuInicio : MonoBehaviour
 {
-public void Jugar()
+public void LoadGameScene()
 {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
+    TransitionManager.Instance.LoadScene(TransitionManager.level_1);
 }
 
 public void Salir(){
     Debug.Log("Salir...");
     Application.Quit();
+}
 }
 }
