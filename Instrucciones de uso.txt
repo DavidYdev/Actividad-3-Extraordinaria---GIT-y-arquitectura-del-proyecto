@@ -1,0 +1,9 @@
+Instrucciones de uso
+-Este proyecto es de uso privado y todo aquel que lo utilice tiene que pedir permiso al director de este.
+-Para hacer un cambio del proyecto hay que notificar al equipo.
+-Si se usa el repositorio de una forma malintencionada habrá consecuencias.
+
+Instructions for use
+-This project is for private use and anyone who uses it must ask permission from the project manager.
+-To make a change to the project you must notify the team.
+-If the repository is used in a malicious way there will be consequences.
