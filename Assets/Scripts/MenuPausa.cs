@@ -5,8 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class MenuPausa : MonoBehaviour
 {
-    [SerializeField] private GameObject botonPausa;
-    [SerializeField] private GameObject menuPausa;
+    [SerializeField] 
+    private GameObject botonPausa;
+    private GameObject menuPausa;
 
     public void Pausa()
     {
